@@ -1,0 +1,63 @@
+*{
+  box-sizing: border box;
+}
+
+body,html{
+  padding: 0px;
+  margin: 0px;
+  font-family: Garamond, serif;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  text-align: center;
+}
+
+.photo1{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ height: 500px;
+ width:1000px;
+}
+
+.intro{
+padding-left: 300px;
+padding-right: 300px;
+  text-align: justify;
+}
+
+.lineup{
+text-align: center;
+}
+.cat1{
+  display:inline-block;
+  height:200px;
+  width:250px;
+}
+
+.space{
+  display:inline-block;
+  height:200px;
+  width:150px;
+}
+
+.cat2{
+  display:inline-block;
+  height:200px;
+  width:200px;
+}
+
+.p2divs{
+  padding-left: 300px;
+  padding-right: 300px;
+    text-align: justify;
+}
+
+h2{
+  text-align: center;
+}
