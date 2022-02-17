@@ -8,6 +8,9 @@ body,html{
   font-family: Garamond, serif;
 }
 
+p{
+  text-align: justify;
+}
 body{
   background-color: black;
   color: white;
@@ -52,12 +55,107 @@ text-align: center;
   width:200px;
 }
 
-.p2divs{
-  padding-left: 300px;
-  padding-right: 300px;
-    text-align: justify;
+.all{
+  text-align: center;
 }
 
-h2{
-  text-align: center;
+.problem{
+  display:inline-block;
+  border: 5px solid black;
+  outline: black solid 5px;
+  padding: 20px;
+  width:700px;
+  height:700px;
+}
+
+.facts{
+  display:inline-block;
+  border: 5px solid white;
+  outline: black solid 5px;
+  padding: 20px;
+  width:300px;
+  height:700px
+}
+
+.wtitle{
+  display:inline-block;
+  padding: 5px;
+  width:1094px;
+  height:60px;
+  background-color: white
+}
+
+.wtitle2{
+  display:inline-block;
+  border: 2px solid black;
+  outline: white solid 5px;
+  padding: 20px;
+  width:1050px;
+  height:20px;
+}
+
+.experience{
+  display:inline-block;
+  border: 2px solid black;
+  outline: white solid 5px;
+  padding: 20px;
+  width:1050px;
+  height:330px;
+}
+
+.promotion{
+  display:inline-block;
+  padding: 20px;
+  width:700px;
+  height:700px;
+}
+
+.ins{
+  display:inline-block;
+  border: 2px solid black;
+  outline: white solid 5px;
+  padding: 20px;
+  width:300px;
+  height:600px;
+}
+
+.shop{
+  display:inline-block;
+  border: 2px solid black;
+  outline: black solid 5px;
+  padding: 20px;
+  width:420px;
+  height:500px;
+}
+
+.young{
+  display:inline-block;
+  border: 2px solid black;
+  outline: white solid 5px;
+  padding: 20px;
+  width:580px;
+  height:500px;
+}
+
+.conclusion{
+  display:inline-block;
+  outline: white solid 10px;
+  padding: 5px;
+  width:1080px;
+  height:200px;
+  background-color: white;
+}
+
+.black{
+  color:black;
+}
+
+.cute{
+  display: inline-block;
+  width: 300px;
+}
+
+.cute2{
+  display: inline-block;
+  width: 300px;
 }
